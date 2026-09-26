@@ -7,7 +7,9 @@ I turn business needs into software solutions. I start by understanding how peop
 
 My background in software architecture helps me build solutions that fit existing systems and remain reliable and practical to maintain. I use AI to study problems, explore options, and develop more efficiently, while staying responsible for the architecture and quality of the result.
 
-I started coding when I was seven and have kept learning and building ever since. Outside work, I follow finance and investing, especially where software, data, and AI can support better analysis and decisions. I also enjoy training at the gym and staying healthy.
+I started coding when I was seven and have kept learning and building ever since. I was a huge LEGO fan as a kid, and that love of building is still with me: I especially enjoy hardware projects, where software comes to life in the physical world.
+
+Outside work, I follow finance and investing, especially where software, data, and AI can support better analysis and decisions. I also enjoy training at the gym and staying healthy.
 
 ## Find me
 
